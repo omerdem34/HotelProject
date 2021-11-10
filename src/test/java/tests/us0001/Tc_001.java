@@ -7,7 +7,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 
 public class Tc_001 {
-    //1) Kullanici Concort Hotel sayfasina gider.
+    //1) Kullanici Concort Hotel sayfasina gider
     //2) Sayfanin ust kisminda bulunan butonlar gorunur durumdadir.
     //3) Istenilen butona tiklanildiginda ilgili yere yonlendirir.
     @Test
